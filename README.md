@@ -27,3 +27,15 @@ The analysis showed that churn rates varied across different customer groups. Ol
 ---                  
 **Project Type:** Data Analytics                    
 **Tools:** Excel | MySQL | Power BI | DAX
+
+
+## Dashboard Screenshots
+
+### 1. Customer Overview
+![Customer Overview](Customer_Overview.png)
+
+### 2. Customer Churn Breakdown
+![Customer Churn Breakdown](Customer_Churn_Breakdown.png)
+
+### 3. Customer Insights
+![Customer Insights](Customer_Insights.png)
